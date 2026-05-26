@@ -3,7 +3,7 @@ RENCANA KONTEN YOGI NUGRAHA
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Vue
+    ^ Next Js
     ^ React
 - PHP Frameworks
   ^ Laravel
