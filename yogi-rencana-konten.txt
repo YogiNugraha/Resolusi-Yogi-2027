@@ -5,6 +5,7 @@ RENCANA KONTEN YOGI NUGRAHA
   * Framework Javascript
     ^ Next Js
     ^ React
+- Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
 - Interview
