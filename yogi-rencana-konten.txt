@@ -3,6 +3,9 @@ RENCANA KONTEN YOGI NUGRAHA
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Next Js
+    ^ Angular
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
